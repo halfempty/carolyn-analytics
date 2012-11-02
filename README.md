@@ -1,4 +1,4 @@
-carolyn-analytics
-=================
+Carolyn Google Analytics
+========================
 
-A simple Google Analytics plugin for WordPress
+A (very) simple plugin for embedding a Google Analytics tracking code in your WordPress site.
