@@ -1,6 +1,6 @@
-=== Plugin Name ===
+=== Carolyn Google Analytics ===
 Contributors: MartySpellerberg
-Tags: analytics, google, javascript, statistics, stats, tracking
+Tags: Google Analytics, analytics, google, javascript, statistics, stats, tracking
 Requires at least: 3.4
 Tested up to: 3.4
 Stable tag: trunk
